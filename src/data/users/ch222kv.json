@@ -33,6 +33,7 @@
 			"url": "https://github.com/ch222kv/ria-2015/blob/gh-pages/blog/using-localstorage.md",
 			"title": "Using Localstorage"
 		},
+			
 		{
 			"when": "2015-12-27 22:16",
 			"url": "https://github.com/ch222kv/ria-2015/blob/gh-pages/blog/my-project.md",
@@ -42,6 +43,11 @@
 			"when": "2016-01-04 09:46",
 			"url": "https://github.com/ch222kv/ria-2015/blob/gh-pages/blog/my-deep-dive.md",
 			"title": "My Deep Dive"
+		},
+		{
+			"when": "2016-01-27 13:21",
+			"url": "https://github.com/ch222kv/ria-2015/blob/gh-pages/blog/final-blogpost.md",
+			"title": "Summary - Final Blogpost"
 		}
 	],
 	"pullrequests": [
