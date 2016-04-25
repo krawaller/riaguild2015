@@ -6,6 +6,10 @@
   "slack": "annaiosif",
   "presentation": "37 year old, two kids, one husband, live in Uppsala. JavaScript is my favourite programming language and my secret skill is flipping pancakes in the air. ",
   "icon": "demons$hellbent-tide",
+  "deepdive": {
+    "description": "Testing React with Mocha and Expect",
+    "url": "http://blog.angamanga.se/2016/04/21/Testing-with-react-and-mocha.html"
+  },
   "blogposts": [
     {
       "when": "2015-11-03 15:00",
@@ -51,10 +55,18 @@
       "when": "2016-03-22 14-00",
       "url": "http://blog.angamanga.se/2016/03/22/adding-redux.html",
       "title": "Adding redux"
+    },
+    {
+      "when": "2016-04-21 15-11",
+      "url": "http://blog.angamanga.se/2016/04/21/Testing-with-react-and-mocha.html",
+      "title": "Testing with React and Mocha"
+    },
+    {
+      "when": "2016-04-25 11-11",
+      "url": "https://github.com/Angamanga/angamanga.github.io/blob/master/_posts/2016-04-25-Description-of-my-project.markdown",
+      "title": "Description of my project and final thoughts"
     }
   ],
   "pullrequests": [
   ]
 }
-
-
